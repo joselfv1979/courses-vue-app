@@ -1,5 +1,13 @@
 # vue-app
 
+## Courses management app
+
+* Typescript
+* Vue.js
+* Vuex
+* Bootstrap
+
+
 ## Project setup
 ```
 npm install
